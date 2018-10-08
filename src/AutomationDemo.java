@@ -22,7 +22,7 @@ public class AutomationDemo
 			driver.navigate().to("https://www.google.co.in");
 			Thread.sleep(5000);
 			System.out.println("Success");
-			driver.close();*/
+			*/
 			
 		}
 		catch(Exception e)
